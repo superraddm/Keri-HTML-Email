@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>The Future This Way</title>
+    <style>
+	
+	
+		 @import url(http://fonts.googleapis.com/css?family=Roboto:300); /*Calling our web font*/
+		 
+		/* Some resets and issue fixes */
+        #outlook a { padding:0; }
+		body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; }     
+        .ReadMsgBody { width: 100%; }
+        .ExternalClass {width:100%;} 
+        .backgroundTable {margin:0 auto; padding:0; width:100%;!important;} 
+        table td {border-collapse: collapse;}
+        .ExternalClass * {line-height: 115%;}	
+        
+        /* End reset */
+		
+		
+		/* These are our tablet/medium screen media queries */
+        @media screen and (max-width: 630px){
+                
+				
+			/* Display block allows us to stack elements */                      
+            *[class="mobile-column"] {display: block;} 
+			
+			/* Some more stacking elements */
+            *[class="mob-column"] {float: none !important;width: 100% !important;}     
+			     
+			/* Hide stuff */
+            *[class="hide"] {display:none !important;}          
+            
+			/* This sets elements to 100% width and fixes the height issues too, a god send */
+			*[class="100p"] {width:100% !important; height:auto !important;}			        
+				
+			/* For the 2x2 stack */			
+			*[class="condensed"] {padding-bottom:40px !important; display: block;}
+			
+			/* Centers content on mobile */
+			*[class="center"] {text-align:center !important; width:100% !important; height:auto !important;}            
+			
+			/* 100percent width section with 20px padding */
+			*[class="100pad"] {width:100% !important; padding:20px;} 
+			
+			/* 100percent width section with 20px padding left & right */
+			*[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px;} 
+			
+			/* 100percent width section with 20px padding top & bottom */
+			*[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px;} 
+			
+		
+        }
+			
+        
+    </style>
+    
+   
+</head>
+
+
+<div style="background:#e6e6e6;">
+
+<body style="padding:0; margin:0" bgcolor="#e6e6e6">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#e6e6e6">
+<tr>
+    <td align="center">
+        <table width="600" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+            <td align="center">
+                
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" height="598">
+	<tbody>
+		<tr height="464">
+			<td background="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/bg-img.jpg" bgcolor="#e6e6e6" height="464" valign="top" width="600"><!--[if gte mso 9]>
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:464px;">
+    <v:fill type="tile" src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/bg-img.jpg" color="#e6e6e6" />
+    <v:textbox inset="0,0,0,0">
+  <![endif]-->
+			<div height="464" width="600">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" height="464">
+				<tbody>
+					<tr height="30">
+						<td colspan="3">&nbsp;</td>
+					</tr>
+					<tr height="160">
+						<td width="30">&nbsp;</td>
+						<td width="230"><a target="_blank" href="http://www.hi-techaerospace.com/"><img align="left" src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/logo.jpg" /> </a></td>
+						<td width="340">&nbsp;</td>
+					</tr>
+					<tr height="40">
+						<td colspan="3">&nbsp;</td>
+					</tr>
+					<tr height="154">
+						<td width="30">&nbsp;</td>
+						<td style="font-family:verdana; font-weight: 400; color: #7f7a7a; font-size:16px;"><span style="font-family:verdana; font-weight: 800; color:#c32929; font-size:32px;">Experts in<br />
+						Engineering!</span><br />
+						<br />
+						Despite our name we excel<br />
+						in manufacturing for many<br />
+						industries.</td>
+						<td width="340">&nbsp;</td>
+					</tr>
+                    <tr height="80">
+                    <td colspan="3">&nbsp;</td></tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#c32929" height="102" style="font-family:verdana; font-weight: 800; color: white; font-size:16px;" width="600">And, we are known for our skills in EDM, but we also<br />
+			have a State-of-the-Art Machine Shop</td>
+		</tr>
+		<tr height="32" width="600">
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr bgcolor="#ffffff" colspan="1" height="32">
+			<td bgcolor="#ffffff">&nbsp;</td>
+			<td bgcolor="#ffffff">&nbsp;</td>
+		</tr>
+		<tr bgcolor="#c32929" height="160">
+			<td style="padding-left:59px; font-family:verdana; font-weight: 400; color: white; font-size:16px;">See our Fantastic <span style="font-weight: 800;">New Website</span><br />
+			and our <span style="font-weight: 800;">New Video</span></td>
+			<td><a target="_blank" href="http://mtd.network/network-videos/hi-tech-what-is-edm.asp"><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/vid.jpg" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr height="110">
+			<td align="center" style="font-family:verdana; font-weight: 400; color: black; font-size:16px; text-decoration:none;" valign="bottom"><span style="font-family:verdana; font-weight: 400; color:#c32929; font-size:20px;">We Have Invested in a Fantastic New Website</span><br />
+			<a target="_blank" href="http://www.hi-techaerospace.com/" style="color:#000000; text-decoration:none;">www.hi-techaerospace.com</a></td>
+		</tr>
+		<tr>
+			<td><a target="_blank" href="http://www.hi-techaerospace.com/"><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/website.jpg" /></a></td>
+		</tr>
+		<tr bgcolor="#e6e6e6" height="32" width="600">
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="330" width="600">
+	<tbody>
+		<tr align="center" height="330">
+			<td bgcolor="#ffffff" height="330" valign="middle" width="600">
+			
+			<table border="0" cellpadding="0" cellspacing="0" width="600">
+				<tbody>
+					<tr height="240">
+						<td align="center">
+						<table border="0" cellpadding="0" cellspacing="0" height="240" width="390">
+							<tbody>
+								<tr height="240">
+									<td width="390">
+									<table border="0" cellpadding="0" cellspacing="0" width="390">
+										<tbody>
+											<tr height="50">
+												<td align="center" colspan="2" style="font-size:30px; font-family:verdana;line-height:44px;font-weight:800;color:#000000;">We are known for</td>
+											</tr>
+                                            <tr height="7">
+                                                <td colspan="2" align="center" valign="bottom">
+                                                <img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/redline.png" width="113" style="disaply:block;"/>
+                                                 </td>
+                                            </tr>
+                                            <tr height="35">
+                                            <td colspan="2" style="line-height:35px;font-size:35px;">&nbsp;</td>
+                                            </tr>
+                                            <tr height="48">
+                                                <td align="left">
+                                                    <table width="165" cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/aerospace.png" width="48" style="display:block;" /></td>
+                                                            <td align="right" style="font-size:16px;font-family:verdana;line-height:44px;font-weight:800;color:#000000;">Aerospace</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                
+                                                <td align="right">
+                                                    <table width="165" cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/edm.jpg" width="48" style="display:block;" /></td>
+                                                            <td align="right" style="font-size:16px;font-family:verdana;line-height:44px;font-weight:800;color:#000000;">EDM work</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr height="48">
+                                            <td colspan="2" style="line-height:48px;font-size:48px;">&nbsp;</td>
+                                            </tr>
+                                            <tr height="50">
+												<td align="center" colspan="2" style="font-size:16px; font-family:verdana;line-height:21px;font-weight:400;color:#000000;">But our skills entend into many industries and many engineering skills</td>
+											</tr>
+                                            <tr>
+										</tbody>
+									</table>
+                                        
+									</td>
+                                </tr>
+                               
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" bgcolor="#c32929" border="0" cellpadding="0" cellspacing="0" height="235" width="600">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="490">
+				<tbody>
+					<tr bgcolor="#c32929" height="200">
+						<td align="center"><a target="_blank" href="http://mtd.network/network-videos/hi-tech-what-is-edm.asp"><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/play-button.jpg" /></a></td>
+						<td width="30">&nbsp;</td>
+						<td align="left" style="font-family:verdana; font-weight: 800; color: white; font-size:20px;">Watch our video to get an<br />
+						insight in to what we do!</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr bgcolor="#e6e6e6" height="32" width="600">
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="200" width="600">
+	<tbody>
+		<tr height="133">
+			<td valign="bottom" style="font-family:verdana; font-weight: 400; color: black; font-size:14px; padding-left:33px;"><span style="font-family:verdana; font-weight: 800; color: black; font-size:14px;">Hi-Tech Aerospace Components Ltd</span><br />
+			18, Bayton Road, Exhall, Coventry, CV7 9EJ<br />
+			Tel no: +44(0)24 7664 4404<br />
+			Fax no: +44(0)24 7636 3777<br />
+			<br />
+			<span style="font-family:verdana; font-weight: 400; color: #000000; font-size:12px; text-decoration:none;">Email: <a href="mailto:sales@hi-techaerospace.com?Subject=I%20am%20interested%20in%20your%20products" style="font-family:verdana; font-weight: 400; color: #000000; font-size:12px; text-decoration:none;">sales@hi-techaerospace.com</a></span></td>
+			<td valign="bottom"><a target="_blank" href="http://mtd.network/" style="text=decoration:none;border:none;"><img src="http://old.mtdcnc.com/uploads/staffftp/Hi-Tech/29-07-E-mail/network-logo.jpg" style="display:block;text-decoration:none;border;none;"/></a></td>
+		</tr>
+		<tr height="10">
+			<td style="font-size:10px;line-height:10px;">&nbsp;</td>
+		</tr>
+		<tr height="60">
+			<td bgcolor="#e6e6e6" style="font-family:verdana; font-weight: 400; color: #b3adad; font-size:12px; padding-left:33px;">All content Hi-Tech Aerospace Components Ltd 2016</td>
+			<td align="right" bgcolor="#e6e6e6" style="font-family:verdana; font-weight: 400; color: #b3adad; font-size:12px; padding-right:30px;"><a target="_blank" href="[unsubscribe]" style="font-family:verdana; font-weight: 400; color: #b3adad; font-size:12px;text-decoration:none;">Unsubscribe</a></td>
+		</tr>
+	</tbody>
+</table>
+                </td>
+            </tr>
+         </table>
+            </td>
+    </tr>
+</table>
+    </body>
+    </div>
+</html>

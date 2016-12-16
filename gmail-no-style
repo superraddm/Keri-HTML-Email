@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><!--This content type tells a web browser how to interperet your special characters. However:
+    EVERY EMAIL CLIENT WILL IGNORE THIS META TAG. Instead the content-type will be set in the header of your email.  The 
+    header is created based on the server configuration which is controlled by your email service provider.  Here is more info: 
+    http://www.emailonacid.com/blog/details/C18/the_importance_of_content-type_character_encoding_in_html_emails
+ 
+    Solution: to avoid jumbled characters in your email, always use HTML entities.  Here's a free tool for quickly converting all 
+    of your characters: http://www.emailonacid.com/character_converter/ 
+     
+    When testing, it's a good idea to try both:
+    
+    and
+    
+    This will help you catch jumbled characters so that you don't forget to convert them to HTML entities.  -->
+	<title>Season's Greetings from Monex Europe</title>
+
+</head>
+<body><!-- You may adjust each of the values above for your template as needed. 
+ 
+We've included the style attribute for Gmail because it does not support embedded CSS and it will convert this body tag to 
+a div. Since it gets converted to a div, the other body attributes like bgcolor are ignored.  
+ 
+We included body attributes (alink, link, bgcolor and text) for Lotus Notes 6.5 and 7, as these clients do not offer much 
+support for embedded nor inline CSS. 
+ 
+The "min-height" attribute is set for Gmail and AOL since they will be converting this body tag to a div and we want our 
+background color to reach the bottom of the page. 
+ 
+The yahoo attribute is added if you are using media queries for mobile devices.  For an explanation, check out the media 
+queries example in the style block below. --><!--PAGE WRAPPER-->
+<div><!--This div is working as a wrapper and the body_style is picking up our CSS properties for AOL. The padding has been 
+    included for Gmail, you can adjust this to your liking.
+     
+    If your email exceeds 23 inches in height, you might end up with unwanted horizontal spacing halfway down your email in 
+    Outlook 2007 and 2010:
+    The reason: http://www.emailonacid.com/blog/details/C13/horizontal_spacing_issues_in_outlook_2007_and_2010
+    The fix: Just change this wrapper from a div to a span and add style="display:block" - don't forget to change the closing tag 
+    as well.  From there, stack your tables within your email so that no table exeeds 23 inches.  
+    Here is another example: http://www.emailonacid.com/blog/details/C13/background_colors_in_html_emails
+    --><!-- PAGE LAYOUT -->
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="600">
+				<tbody>
+					<tr height="450">
+						<td align="center"><img alt="Seasons Greetings from Monex" src="https://europe3.fivecrm.com/925884/user_files/uploads/006/images/seasons-greetings-hero.jpg" style="display: block; width: 600px;" /></td>
+					</tr>
+					
+                    <tr height="40">
+						<td align="center" style="font-family: 'Museo 300 Light',Museo,Tahoma,Arial,serif;font-size:26px;color:#023D83;" valign="bottom">Season's Greetings</td>
+					</tr>
+					<tr height="40">
+						<td align="center" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;font-size:16px;color:#A3A9AC;" valign="bottom">With warmest wishes for Christmas and a prosperous New Year.</td>
+					</tr>
+					<tr height="75">
+						<td align="center" valign="bottom"><img alt="Monex Europe" src="https://europe3.fivecrm.com/925884/user_files/uploads/006/images/monex%281%29.PNG" style="display: block; width: 150px;" /></td>
+					</tr>
+					<tr height="40">
+						<td align="center" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;font-size:12px;color:#A3A9AC;" valign="bottom">We will be donating the cost of cards to The Not Forgotten Association</td>
+					</tr>
+					<tr height="80">
+						<td align="center" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;font-size:10px;color:#A3A9AC;" valign="bottom">To unsubscribe, please</td>
+					</tr>
+                    
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!--end wrapper--><!--As mentioned above, you might want to consider duplicating your embedded CSS after the closing body tag for Yahoo! 
+Mail in IE7 & 8--><!-- Never include anything after your ending html tag because Comcast won't render it. --></body>
+</html>
